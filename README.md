@@ -41,7 +41,7 @@ Sistema para gestão de feedbacks com:
 
 ---
 
-**Design:**
+## Design:
 - 🎨 Cores:
   - Cores Azul escuro + branco: Passam profissionalismo e clareza. 
   - Verde (elogios): Associação positiva. 
