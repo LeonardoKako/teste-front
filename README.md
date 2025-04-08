@@ -19,7 +19,6 @@ Sistema para gestão de feedbacks com:
 **Conteúdo:**
 - 📊 Métricas-chave:
   - Feedbacks recebidos/enviados
-  - Pendentes de resposta
   - Taxa de resolução
 - 😊 Níveis de satisfação
 - 🏷️ Áreas mais comentadas
